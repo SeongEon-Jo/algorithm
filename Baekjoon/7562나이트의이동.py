@@ -37,3 +37,5 @@ for x in ans_list:
     if x == None:
         print(0)
     else: print(x)
+
+
